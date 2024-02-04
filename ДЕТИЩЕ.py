@@ -8,7 +8,7 @@ import pygame
 window = tk.Tk()
 #splash_win= tk.Tk()
 #splash_win.attributes('-topmost',True)
-
+###
 #splash_win.title("Splash Screen Example")
 #w = 1200 # width for the Tk root
 #h = 770 # height for the Tk root
